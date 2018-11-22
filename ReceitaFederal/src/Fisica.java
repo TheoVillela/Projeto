@@ -1,6 +1,6 @@
 
 public class Fisica extends Pessoa {
 	
-	String cpf;
+	String cpf, nome;
 
 }
